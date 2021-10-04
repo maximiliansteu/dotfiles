@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maximilian.steuck@mailbox.org
+	name = Maximilian Steuck
